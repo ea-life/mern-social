@@ -5,3 +5,6 @@
 2. npm run development 
 3. Open [localhost:3000](http://localhost:3000/) in the browser
 
+## Reference
+
+1. https://github.com/shamahoque/mern-social
